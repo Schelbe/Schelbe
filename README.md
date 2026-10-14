@@ -22,11 +22,24 @@ Currently studying Computer Engineering and turning curiosity into practical pro
 
 *Every project begins as a small quest.*
 
-| Quest | Description | Status |
-|---|---|---|
-| ⚔️ PULSO | Building a fantasy-inspired Pomodoro RPG | 🟡 In progress |
-| 🛡️ Git & GitHub | Learning version control | ✅ First milestone completed |
-| 📖 Web Development | Exploring frontend fundamentals | 🟡 In progress |
+
+| Quest | Status |
+|---|---|
+| 🛡️ Git & GitHub | ✅ First milestone completed |
+| 📖 Web Development | 🟡 In progress |
+
+
+## 🔥 Featured Project
+
+### ⚔️ PULSO — Pomodoro RPG
+
+A fantasy-inspired productivity application that turns focus sessions into small RPG adventures.
+
+Currently building the foundations of the app while learning web development.
+
+**Development stage:** Early development
+
+**Core idea:** Focus, progress, and grow through every completed session.
 
 ## 🗡️ The Arsenal
 
@@ -34,10 +47,10 @@ Currently studying Computer Engineering and turning curiosity into practical pro
 
 ### Current Equipment
 
-![HTML](https://img.shields.io/badge/HTML-Learning-3C3431)
-![CSS](https://img.shields.io/badge/CSS-Learning-3C3431)
-![JavaScript](https://img.shields.io/badge/JavaScript-Learning-3C3431)
-![Git](https://img.shields.io/badge/Git-Learning-3C3431)
+![HTML](https://img.shields.io/badge/HTML-Learning-8B6914)
+![CSS](https://img.shields.io/badge/CSS-Learning-8B6914)
+![JavaScript](https://img.shields.io/badge/JavaScript-Learning-8B6914)
+![Git](https://img.shields.io/badge/Git-Learning-8B6914)
 
 ### Exploring
 
