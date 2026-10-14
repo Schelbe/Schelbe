@@ -1,5 +1,6 @@
-
 <div align="center">
+
+![The Ashen Knight Banner](ashen-knight-banner.webp)
 
 # ⚔️ THE ASHEN KNIGHT
 
@@ -11,19 +12,45 @@
 
 </div>
 
+## 🛡️ The Adventurer
 
-## 🛡️ About the Adventurer
+An aspiring developer exploring the world of software development, one challenge at a time.
 
-Computer Engineering student from Chile, currently learning software development.
+Currently studying Computer Engineering and turning curiosity into practical projects.
 
-I'm building my skills one quest at a time, exploring programming, problem-solving, and the world of technology.
+## 📜 The Quest Log
 
-## 🔥 Current Quest
+*Every project begins as a small quest.*
 
-**PULSO — Pomodoro RPG**
+| Quest | Description | Status |
+|---|---|---|
+| ⚔️ PULSO | Building a fantasy-inspired Pomodoro RPG | 🟡 In progress |
+| 🛡️ Git & GitHub | Learning version control | ✅ First milestone completed |
+| 📖 Web Development | Exploring frontend fundamentals | 🟡 In progress |
 
-A fantasy-inspired productivity application that combines focus sessions, progression, and RPG elements.
+## 🗡️ The Arsenal
 
-**Current tools:** HTML, CSS, JavaScript and Git.
+*Tools and technologies I'm currently learning.*
 
-**Quest status:** In development.
+### Current Equipment
+
+![HTML](https://img.shields.io/badge/HTML-Learning-3C3431)
+![CSS](https://img.shields.io/badge/CSS-Learning-3C3431)
+![JavaScript](https://img.shields.io/badge/JavaScript-Learning-3C3431)
+![Git](https://img.shields.io/badge/Git-Learning-3C3431)
+
+### Exploring
+
+![Python](https://img.shields.io/badge/Python-Exploring-69513C)
+
+
+---
+
+<div align="center">
+
+
+**Every skill is earned, one quest at a time.**
+
+✦ ─────── 🔥 ─────── ✦
+
+</div>
