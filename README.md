@@ -1,8 +1,16 @@
-# ⚔️ The Ashen Knight
 
-*Every line of code is another step in the adventure.*
+<div align="center">
 
----
+# ⚔️ THE ASHEN KNIGHT
+
+*Forged through patience. Built one quest at a time.*
+
+**Computer Engineering Student · Chile**
+
+✦ ─────── ⚔️ ─────── ✦
+
+</div>
+
 
 ## 🛡️ About the Adventurer
 
