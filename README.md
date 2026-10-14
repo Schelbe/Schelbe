@@ -1,16 +1,21 @@
-## Hi there 👋
+# ⚔️ The Ashen Knight
 
-<!--
-**Schelbe/Schelbe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*Every line of code is another step in the adventure.*
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛡️ About the Adventurer
+
+Computer Engineering student from Chile, currently learning software development.
+
+I'm building my skills one quest at a time, exploring programming, problem-solving, and the world of technology.
+
+## 🔥 Current Quest
+
+**PULSO — Pomodoro RPG**
+
+A fantasy-inspired productivity application that combines focus sessions, progression, and RPG elements.
+
+**Current tools:** HTML, CSS, JavaScript and Git.
+
+**Quest status:** In development.
